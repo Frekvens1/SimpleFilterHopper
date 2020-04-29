@@ -1,0 +1,6 @@
+    main: no.alektro.simplefilterhopper.Main
+    name: SimpleFilterHopper
+    version: 1.0
+    author: Frekvens1
+    description: Hoppers will filter items with ItemFrame on them.
+    api-version: 1.15
